@@ -1,0 +1,7 @@
+## A simple REACT application as a hobby project ##
+
+1) Dowload zip-file
+2) Unzip the file
+3) Run npm install in your commandprompt in the root of the project folder
+4) When its installed, run npm start
+5) Open the localhost:3000 in your web browser
